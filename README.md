@@ -2,9 +2,7 @@
 <h3 align="center">Junior developer in love with programming</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif">
 
-- 🔭 I’m currently working on **Pokedex app**
-
-- 🤓 I’m currently learning **Kotlin, Angular**
+- 🤓 I’m currently learning **Angular**
 
 - 📫 How to reach me **fjsc664@gmail.com**
 
