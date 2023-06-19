@@ -1,7 +1,7 @@
 <h1 align="center">Hi 😁, I'm Fran</h1>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif">
 
-- 🤓 I’m currently learning **Angular** and **Typescript**
+- 🤓 I’m currently learning **Angular**, **Nodejs** and **React**
 
 - 📫 How to reach me **fjsc664@gmail.com**
 
